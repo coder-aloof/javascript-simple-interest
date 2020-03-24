@@ -6,6 +6,5 @@ function calculateSI() {
 
     const SI = (p * n * r) / 100;
     document.getElementById('result').innerHTML = SI;
-    return false;
 
 }
